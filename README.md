@@ -1,4 +1,4 @@
-# Express App Cookiecutter
+# Express Project Structure
 
 A production-ready Express.js project structure with best practices built-in.
 
