@@ -11,7 +11,7 @@ A production-ready Express.js project structure with best practices built-in.
 - **Comprehensive error handling**: http-errors integration with context logging
 - **Async error handling**: asyncHandler wrapper for safe error catching
 - **HTTP status constants**: Centralized status codes and error messages
-- **Testing**: Jest and Supertest with example E2E tests
+- **Testing**: Jest with example tests
 - **Code quality**: ESLint + Prettier for consistent formatting
 
 ## Quick start
